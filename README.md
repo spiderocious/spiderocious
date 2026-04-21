@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Oluwaferanmi Adeniji
 
 **Senior Software Engineer · Builder · Open Source Author**
+
 Built web apps used by millions, Frontend Systems that processed over **[$1 billion in 2025](https://2025.moniepoint.com/)**, and libraries that other developers actually download. Interested in fintech, ecommerce, SAAS, infrastructure real-time systems, 3D graphics, and developer tooling.
 I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source.
 I am heavily invested in building systems that make live easier for millions of underbanked and underserved users across Africa, and I am always looking for new ways to leverage technology to create positive impact. When I'm not coding, you can find me writing about architecture decisions, building side projects, or collecting words for my next word game.
@@ -15,50 +16,29 @@ I'm a senior frontend engineer at **[Moniepoint](https://moniepoint.com)**, Nige
 
 ## 🚀 Featured Projects
 
-### [TrustRail](https://github.com/spiderocious/trustrail-frontend) — B2B trust orchestration for Nigerian businesses
-AI-powered BNPL platform with GPT-4 bank statement analysis, trust scoring (0–100), and automated installment collection via PayWithAccount/NIBSS direct debit. ([Backend](https://github.com/spiderocious/trustrail-backend))
+### [WordShot](https://github.com/) — Real-time multiplayer word game
+A word game with a **10.2-million-word dictionary**, 98% mobile session recovery, and a three-layer WebSocket reconnection strategy. 400+ active users, 10,000+ games played. Built with React, Socket.IO, MongoDB, and Feature-Sliced Design.
 
-### [Watchdog](https://watchdog.devferanmi.xyz/) — Real-time uptime monitoring
-SCADA-inspired monitoring platform with scheduled HTTP health checks, in-process timer engine, and an industrial dark-themed telemetry dashboard. 15 API endpoints. ([Frontend](https://github.com/spiderocious/watchdog-frontend) · [Backend](https://github.com/spiderocious/watchdog-backend))
-
-### [WordShot](https://github.com/spiderocious/wordshot) — Real-time multiplayer word game
-A word game with a **10.2-million-word dictionary**, 98% mobile session recovery, and a three-layer WebSocket reconnection strategy. 400+ active users, 10,000+ games played. ([Play](https://wordshot.netlify.app))
-
-### [MARTECH3D](https://martech3d.com) — Enterprise 3D visualization
-1,000+ enterprise users rely on this BabylonJS-based platform. Multi-format 3D support (GLB, STEP, USDZ), XOR-based client-side encryption, Draco compression cutting file sizes by 50%+, and AR on iOS/Android.
-
-### [BuffByte AI](https://buffbyteai.xyz/) — AI content optimization for creators
-Real-time analysis, trend discovery, and a professional teleprompter. Multi-platform optimization for YouTube, TikTok, and Instagram. **100+ creators**, 25–40% engagement lift.
-
-### [PromptBasket](https://promptbasket.devferanmi.xyz/) — Prompt management tool
-Organize AI prompts in colorful buckets with markdown support, live preview, and smart search. Local-first with a storage abstraction ready for backend integration. ([GitHub](https://github.com/spiderocious/prompt-basket-frontend))
+### [MARTECH3D Model Viewer](https://github.com/) — Enterprise 3D visualization
+1,000+ enterprise users rely on this BabylonJS-based platform. Multi-format 3D support (GLB, STEP, USDZ), XOR-based client-side encryption, Draco compression cutting file sizes by 50%+, and full AR support on iOS and Android.
 
 ### [Ìrísí](https://crackedchefs.devferanmi.xyz/r-s-a-react-library-for-building-product-videos-in-jsx) — Product videos in JSX
 A React library for building product demo videos declaratively. Because `ffmpeg` shouldn't be a prerequisite for showing off what you built.
 
-### [MoneyWrapped](https://github.com/spiderocious/moneywrapped-frontend) — Spotify Wrapped for your finances
-AI-powered transaction categorization (GPT-4), multi-bank CSV parsing for Nigerian banks (Moniepoint, OPay, GTBank), GraphQL backend, and shareable year-in-review cards. ([Backend](https://github.com/spiderocious/moneywrapped-backend))
+### [MoneyWrapped](https://github.com/) — Spotify Wrapped for your finances
+AI-powered transaction categorization (GPT-4), multi-bank CSV parsing for Nigerian banks (Moniepoint, OPay, GTBank), GraphQL backend, and shareable year-in-review cards.
 
-### [Pullee](https://github.com/spiderocious/pullee) — Intelligent git branch sync CLI
-A branch synchronization tool with conflict-aware merging via merge-base, desktop notifications, and session-based config. Saves 50+ engineering hours per team annually.
-
-### [Dondie](https://nailtechapp.netlify.app/) — AI-powered nail health analysis
-Vision AI (GPT-4o-mini) for nail health: camera capture, severity assessment (Low/Medium/High), and personalized recommendations.
-
-### [Match Maker Web](https://github.com/spiderocious/matchmaker-web) — Dating platform frontend
-Production-ready React dating platform with a 24-component UI library, feature-based architecture, and a full suite of messaging primitives.
-
-### GLTF Handler — Dynamic 3D texture swapping
-JavaScript library for runtime texture swapping in GLTF/GLB models without re-export. Built for e-commerce configurators and interactive 3D experiences.
+### [Puller](https://github.com/) — Intelligent git branch sync CLI
+A branch synchronization tool with conflict detection via merge-base, desktop notifications, and session-based config. Estimated to save small teams **$10K–$31K annually** in avoided pipeline failures.
 
 ---
 
 ## 📦 Open Source & npm
 
-- **[Connectic](https://www.npmjs.com/package/connectic)** — Framework-agnostic microfrontend communication (event-driven pub/sub, reactive state, request/response with caching). **3,000+ downloads**. ([Docs](https://connectic.devferanmi.xyz/) · [GitHub](https://github.com/spiderocious/connectic))
-- **[Monie Utils](https://www.npmjs.com/package/monie-utils)** — TypeScript money utilities with 20+ currencies (NGN, KES focus), banker's rounding, loan calculations, zero dependencies. **5,000+ downloads**. ([Docs](https://monieutils.devferanmi.xyz/) · [GitHub](https://github.com/spiderocious/monie-utils))
-- **[Meemaw](https://www.npmjs.com/package/meemaw)** — 9 declarative React components (`<Show>`, `<Switch>`, `<Loadable>`, etc.) in ~7 KB with zero dependencies. ([GitHub](https://github.com/spiderocious/meemaw))
-- **[Ajala AI SDK](https://github.com/spiderocious/ajala-ai-sdk)** — Unified TypeScript SDK for Claude + OpenAI with smart JSON auto-repair, schema validation, and 28 error codes for debugging.
+- **[Connectic](https://www.npmjs.com/)** — Microfrontend communication across React, Vue, and Angular. **3,000+ downloads**.
+- **[Monie Utils](https://www.npmjs.com/)** — Financial calculation and currency formatting utilities. **5,000+ downloads**.
+- **[Meemaw](https://www.npmjs.com/)** — 9 declarative React components (`<Show>`, `<Switch>`, `<Loadable>`, etc.) in ~7 KB with zero dependencies and 100% test coverage.
+- **[Ajala AI SDK](https://www.npmjs.com/)** — Unified multi-provider AI integration (Claude + OpenAI) with smart JSON parsing for malformed model responses.
 
 ---
 
@@ -106,7 +86,7 @@ I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)*
 ## 📬 Get in Touch
 
 - 📝 Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
-- 📨 Email: devferanmi@gmail.com
+- 📨 Email: devferanmi@@gmail.com
 
 ---
 
