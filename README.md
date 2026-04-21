@@ -1,16 +1,19 @@
 # 👋 Hi, I'm Oluwaferanmi Adeniji
 
-**Senior Software Engineer · Builder · Open Source Author**
+**Senior Software Engineer · Builder · Open Source**
 
 Built web apps used by millions, Frontend Systems that processed over **[$1 billion in 2025](https://2025.moniepoint.com/)**, and libraries that other developers actually download. Interested in fintech, ecommerce, SAAS, infrastructure real-time systems, 3D graphics, and developer tooling.
-I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source.
-I am heavily invested in building systems that make live easier for millions of underbanked and underserved users across Africa, and I am always looking for new ways to leverage technology to create positive impact. When I'm not coding, you can find me writing about architecture decisions, building side projects, or collecting words for my next word game.
 
 ---
 
 ## About Me
 
 I'm a senior frontend engineer at **[Moniepoint](https://moniepoint.com)**, Nigeria's largest fintech platform, where I contribute to the frontend architecture for the Working Capital Loans product — a system processing **$20M+ in monthly transaction volume** across millions of users.
+
+I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source.
+
+I am heavily invested in building systems that make live easier for millions of underbanked and underserved users across Africa, and I am always looking for new ways to leverage technology to create positive impact. When I'm not coding, you can find me writing about architecture decisions, building side projects, or collecting words for my next word game.
+
 
 ---
 
