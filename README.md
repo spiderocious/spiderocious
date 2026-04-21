@@ -14,7 +14,7 @@ I'm a senior frontend engineer at **[Moniepoint](https://moniepoint.com)**, Nige
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [WordShot](https://github.com/) — Real-time multiplayer word game
 A word game with a **10.2-million-word dictionary**, 98% mobile session recovery, and a three-layer WebSocket reconnection strategy. 400+ active users, 10,000+ games played. Built with React, Socket.IO, MongoDB, and Feature-Sliced Design.
@@ -33,7 +33,7 @@ A branch synchronization tool with conflict detection via merge-base, desktop no
 
 ---
 
-## 📦 Open Source & npm
+## Open Source & npm
 
 - **[Connectic](https://www.npmjs.com/)** — Microfrontend communication across React, Vue, and Angular. **3,000+ downloads**.
 - **[Monie Utils](https://www.npmjs.com/)** — Financial calculation and currency formatting utilities. **5,000+ downloads**.
@@ -42,18 +42,18 @@ A branch synchronization tool with conflict detection via merge-base, desktop no
 
 ---
 
-## ✍️ Writing
+## Writing
 
 I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)** about the architecture decisions behind the things I build.
 
-- 🎬 [Ìrísí — A React Library for Building Product Videos in JSX](https://crackedchefs.devferanmi.xyz/r-s-a-react-library-for-building-product-videos-in-jsx)
-- 🎮 [How I Built WordShot — A Word Game That Scales to 10 Million Words](https://crackedchefs.devferanmi.xyz/how-i-built-wordshot-a-word-game-that-scales-to-10-million-words-and-the-architecture-decisions-that-made-it-possible) — 18-minute deep dive into the architecture decisions.
-- 🧱 [Maybe You Only Need Vanilla JavaScript — Challenging the Framework-First Mindset](https://crackedchefs.devferanmi.xyz/maybe-you-only-need-vanilla-javascript-challenging-the-framework-first-mindset)
-- 🤖 [Building a Reusable AI SDK](https://crackedchefs.devferanmi.xyz/building-a-reusable-ai-sdk)
+- [Ìrísí — A React Library for Building Product Videos in JSX](https://crackedchefs.devferanmi.xyz/r-s-a-react-library-for-building-product-videos-in-jsx)
+- [How I Built WordShot — A Word Game That Scales to 10 Million Words](https://crackedchefs.devferanmi.xyz/how-i-built-wordshot-a-word-game-that-scales-to-10-million-words-and-the-architecture-decisions-that-made-it-possible) — 18-minute deep dive into the architecture decisions.
+- [Maybe You Only Need Vanilla JavaScript — Challenging the Framework-First Mindset](https://crackedchefs.devferanmi.xyz/maybe-you-only-need-vanilla-javascript-challenging-the-framework-first-mindset)
+- [Building a Reusable AI SDK](https://crackedchefs.devferanmi.xyz/building-a-reusable-ai-sdk)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
@@ -71,7 +71,7 @@ I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)*
 
 ---
 
-## 📊 By the Numbers
+## By the Numbers
 
 | | |
 |---|---|
@@ -83,10 +83,10 @@ I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)*
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- 📝 Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
-- 📨 Email: devferanmi@@gmail.com
+- Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
+- Email: devferanmi@@gmail.com
 
 ---
 
