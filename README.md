@@ -12,8 +12,8 @@ I enjoy building things that solve real problems, whether it's a product feature
 
 ## Featured Projects
 
-### [Medcord](https://medcord.netlify.app) — B2B trust orchestration for Nigerian businesses
-ulti-tenant hospital management SaaS (codename Caelum). Hospitals sign up, set up a workspace, and run patient management, EMR, labs, and asset tracking from one platform. Go + Gin backend, React 19 frontend on Feature-Sliced Design. 
+### [Medcord](https://medcord.netlify.app) — Multi-tenant hospital management SaaS
+Multi-tenant hospital management SaaS. Hospitals sign up, set up a workspace, and run patient management, EMR, labs, and asset tracking from one platform. Go + Gin backend, React 19 frontend on Feature-Sliced Design. 
 ([Demo](https://medcord.netlify.app))
 ([Github](https://github.com/spiderocious/medcord-app))
 
@@ -33,10 +33,8 @@ Check out my other projects on my [portfolio](https://devferanmi.xyz/projects)
 
 ---
 
-
 ## Open Source 
 
 - **[Connectic](https://www.npmjs.com/package/connectic)** — Framework-agnostic microfrontend communication (event-driven pub/sub, reactive state, request/response with caching). **3,000+ downloads**. ([Docs](https://connectic.devferanmi.xyz/) · [GitHub](https://github.com/spiderocious/connectic))
 - **[Monie Utils](https://www.npmjs.com/package/monie-utils)** — TypeScript money utilities with 20+ currencies (NGN, KES focus), banker's rounding, loan calculations, zero dependencies. **5,000+ downloads**. ([Docs](https://monieutils.devferanmi.xyz/) · [GitHub](https://github.com/spiderocious/monie-utils))
 - **[Meemaw](https://www.npmjs.com/package/meemaw)** — 9 declarative React components (`<Show>`, `<Switch>`, `<Loadable>`, etc.) in ~7 KB with zero dependencies. ([GitHub](https://github.com/spiderocious/meemaw))
-- **[Ajala AI SDK](https://github.com/spiderocious/ajala-ai-sdk)** — Unified TypeScript SDK for Claude + OpenAI with smart JSON auto-repair, schema validation, and 28 error codes for debugging.
