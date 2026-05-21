@@ -1,61 +1,42 @@
 # 👋 Hi, I'm Oluwaferanmi Adeniji
 
-**Senior Software Engineer · Builder · Open Source**
+**Senior Software Engineer**
 
 Built web apps used by millions, Frontend Systems that processed over **[$1 billion in 2025](https://2025.moniepoint.com/)**, and libraries that other developers actually download. Interested in fintech, ecommerce, SAAS, infrastructure real-time systems, 3D graphics, and developer tooling.
 
----
-
-## About Me
-
-I'm a senior frontend engineer at **[Moniepoint](https://moniepoint.com)**, Nigeria's largest fintech platform, where I contribute to the frontend architecture for the Working Capital Loans product — a system processing **$20M+ in monthly transaction volume** across millions of users.
-
 I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source contributions.
 
-I am heavily invested in building systems that make live easier for millions of underbanked and underserved users across Africa, and I am always looking for new ways to leverage technology to create positive impact. When I'm not coding, you can find me writing about architecture decisions, building side projects, or collecting words for my next word game.
+## Get in Touch
+- Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
+- Email: devferanmi@gmail.com
+- Portfolio: [https://devferanmi.xyz/](https://devferanmi.xyz/)
+- LLM: [https://devferanmi.xyz/llm](https://devferanmi.xyz/)
 
 ![Visitor count](https://komarev.com/ghpvc/?username=spiderocious&color=blue)
 
-
 ## Featured Projects
 
-### [TrustRail](https://github.com/spiderocious/trustrail-frontend) — B2B trust orchestration for Nigerian businesses
-AI-powered BNPL platform with GPT-4 bank statement analysis, trust scoring (0–100), and automated installment collection via PayWithAccount/NIBSS direct debit. ([Backend](https://github.com/spiderocious/trustrail-backend))
-
-### [Watchdog](https://watchdog.devferanmi.xyz/) — Real-time uptime monitoring
-SCADA-inspired monitoring platform with scheduled HTTP health checks, in-process timer engine, and an industrial dark-themed telemetry dashboard. 15 API endpoints. ([Frontend](https://github.com/spiderocious/watchdog-frontend) · [Backend](https://github.com/spiderocious/watchdog-backend))
-
-### [WordShot](https://github.com/spiderocious/wordshot) — Real-time multiplayer word game
-A word game with a **10.2-million-word dictionary**, 98% mobile session recovery, and a three-layer WebSocket reconnection strategy. 400+ active users, 10,000+ games played. ([Play](https://wordshot.netlify.app))
-
-### [MARTECH3D](https://martech3d.com) — Enterprise 3D visualization
-1,000+ enterprise users rely on this BabylonJS-based platform. Multi-format 3D support (GLB, STEP, USDZ), XOR-based client-side encryption, Draco compression cutting file sizes by 50%+, and AR on iOS/Android.
+### [Medcord](https://medcord.netlify.app) — B2B trust orchestration for Nigerian businesses
+ulti-tenant hospital management SaaS (codename Caelum). Hospitals sign up, set up a workspace, and run patient management, EMR, labs, and asset tracking from one platform. Go + Gin backend, React 19 frontend on Feature-Sliced Design. 
+([Demo](https://medcord.netlify.app))
+([Github](https://github.com/spiderocious/medcord-app))
 
 ### [BuffByte AI](https://buffbyteai.xyz/) — AI content optimization for creators
+AI-powered content optimization platform with real-time analysis, trend discovery, and professional teleprompter. Multi-platform optimization for YouTube, TikTok, Instagram.
 Real-time analysis, trend discovery, and a professional teleprompter. Multi-platform optimization for YouTube, TikTok, and Instagram. **100+ creators**, 25–40% engagement lift.
 
-### [PromptBasket](https://promptbasket.devferanmi.xyz/) — Prompt management tool
-Organize AI prompts in colorful buckets with markdown support, live preview, and smart search. Local-first with a storage abstraction ready for backend integration. ([GitHub](https://github.com/spiderocious/prompt-basket-frontend))
+### [Solon](http://usesolonai.netlify.app) — Political intelligence tool
+Political intelligence and campaign infrastructure for Nigeria, named after Solon of Athens. An election simulator, AI voter segmentation, agent coordination, finance compliance, and a live war room — 
+Probabilistic election simulator and full campaign stack: model vote share across structural levers and issue shocks, segment voters, coordinate field agents, track finance compliance, and run an election-day war room — with ethical guardrails baked in.
 
-### [Ìrísí](https://crackedchefs.devferanmi.xyz/r-s-a-react-library-for-building-product-videos-in-jsx) — Product videos in JSX
-A React library for building product demo videos declaratively. Because `ffmpeg` shouldn't be a prerequisite for showing off what you built.
+Built as a pnpm monorepo of five apps and shared core/api/ui packages.
+([GitHub](https://github.com/spiderocious/solon-ai))
+([Demo](http://usesolonai.netlify.app))
 
-### [MoneyWrapped](https://github.com/spiderocious/moneywrapped-frontend) — Spotify Wrapped for your finances
-AI-powered transaction categorization (GPT-4), multi-bank CSV parsing for Nigerian banks (Moniepoint, OPay, GTBank), GraphQL backend, and shareable year-in-review cards. ([Backend](https://github.com/spiderocious/moneywrapped-backend))
-
-### [Pullee](https://github.com/spiderocious/pullee) — Intelligent git branch sync CLI
-A branch synchronization tool with conflict-aware merging via merge-base, desktop notifications, and session-based config. Saves 50+ engineering hours per team annually.
-
-### [Dondie](https://nailtechapp.netlify.app/) — AI-powered nail health analysis
-Vision AI (GPT-4o-mini) for nail health: camera capture, severity assessment (Low/Medium/High), and personalized recommendations.
-
-### [Match Maker Web](https://github.com/spiderocious/matchmaker-web) — Dating platform frontend
-Production-ready React dating platform with a 24-component UI library, feature-based architecture, and a full suite of messaging primitives.
-
-### GLTF Handler — Dynamic 3D texture swapping
-JavaScript library for runtime texture swapping in GLTF/GLB models without re-export. Built for e-commerce configurators and interactive 3D experiences.
+Check out my other projects on my [portfolio](https://devferanmi.xyz/projects) 
 
 ---
+
 
 ## Open Source & npm
 
@@ -63,17 +44,6 @@ JavaScript library for runtime texture swapping in GLTF/GLB models without re-ex
 - **[Monie Utils](https://www.npmjs.com/package/monie-utils)** — TypeScript money utilities with 20+ currencies (NGN, KES focus), banker's rounding, loan calculations, zero dependencies. **5,000+ downloads**. ([Docs](https://monieutils.devferanmi.xyz/) · [GitHub](https://github.com/spiderocious/monie-utils))
 - **[Meemaw](https://www.npmjs.com/package/meemaw)** — 9 declarative React components (`<Show>`, `<Switch>`, `<Loadable>`, etc.) in ~7 KB with zero dependencies. ([GitHub](https://github.com/spiderocious/meemaw))
 - **[Ajala AI SDK](https://github.com/spiderocious/ajala-ai-sdk)** — Unified TypeScript SDK for Claude + OpenAI with smart JSON auto-repair, schema validation, and 28 error codes for debugging.
-
----
-
-## Writing
-
-I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)** about the architecture decisions behind the things I build.
-
-- [Ìrísí — A React Library for Building Product Videos in JSX](https://crackedchefs.devferanmi.xyz/r-s-a-react-library-for-building-product-videos-in-jsx)
-- [How I Built WordShot — A Word Game That Scales to 10 Million Words](https://crackedchefs.devferanmi.xyz/how-i-built-wordshot-a-word-game-that-scales-to-10-million-words-and-the-architecture-decisions-that-made-it-possible) — 18-minute deep dive into the architecture decisions.
-- [Maybe You Only Need Vanilla JavaScript — Challenging the Framework-First Mindset](https://crackedchefs.devferanmi.xyz/maybe-you-only-need-vanilla-javascript-challenging-the-framework-first-mindset)
-- [Building a Reusable AI SDK](https://crackedchefs.devferanmi.xyz/building-a-reusable-ai-sdk)
 
 ---
 
@@ -133,11 +103,6 @@ I blog at **[crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)*
 
 **Domains:** Fintech · Real-time systems · 3D graphics · Developer tooling
 
-
-## Get in Touch
-
-- Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
-- Email: devferanmi@gmail.com
 
 ---
 
