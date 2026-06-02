@@ -6,7 +6,7 @@ I enjoy building things that solve real problems, whether it's a product feature
 - Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
 - Email: devferanmi@gmail.com
 - Portfolio: [https://devferanmi.xyz/](https://devferanmi.xyz/)
-- LLM: [https://devferanmi.xyz/llm](https://devferanmi.xyz/)
+- LLM: [https://devferanmi.xyz/llm](https://devferanmi.xyz/llm)
 
 ![Visitor count](https://komarev.com/ghpvc/?username=spiderocious&color=blue)
 
