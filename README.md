@@ -3,7 +3,7 @@
 I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source contributions.
 
 ## Get in Touch
-- Blog: [crackedchefs.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
+- Blog: [blog.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
 - Email: devferanmi@gmail.com
 - Portfolio: [https://devferanmi.xyz/](https://devferanmi.xyz/)
 - LLM: [https://devferanmi.xyz/llm](https://devferanmi.xyz/llm)
@@ -12,9 +12,9 @@ I enjoy building things that solve real problems, whether it's a product feature
 
 ## Featured Projects
 
-### [Medcord](https://medcord.netlify.app) — Multi-tenant hospital management SaaS
+### [Medcord](https://usemedcord.xyz) — Multi-tenant hospital management SaaS
 Multi-tenant hospital management SaaS. Hospitals sign up, set up a workspace, and run patient management, EMR, labs, and asset tracking from one platform. Go + Gin backend, React 19 frontend on Feature-Sliced Design. 
-([Demo](https://medcord.netlify.app))
+([Demo](https://usemedcord.xyz))
 ([Github](https://github.com/spiderocious/medcord-app))
 
 ### [BuffByte AI](https://buffbyteai.xyz/) — AI content optimization for creators
