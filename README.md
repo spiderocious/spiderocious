@@ -18,8 +18,8 @@ Multi-tenant hospital management SaaS. Hospitals sign up, set up a workspace, an
 ([Github](https://github.com/spiderocious/medcord-app))
 
 ### [BuffByte AI](https://buffbyteai.xyz/) — AI content optimization for creators
-AI-powered content optimization platform with real-time analysis, trend discovery, and professional teleprompter. Multi-platform optimization for YouTube, TikTok, Instagram.
-Real-time analysis, trend discovery, and a professional teleprompter. Multi-platform optimization for YouTube, TikTok, and Instagram. **100+ creators**, 25–40% engagement lift.
+AI-powered content optimization platform with real-time analysis, trend discovery, and professional teleprompter.
+Multi-platform optimization for YouTube, TikTok, and Instagram. **100+ creators**, 25–40% engagement lift.
 
 ### [Solon](http://usesolonai.netlify.app) — Political intelligence tool
 Political intelligence and campaign infrastructure for Nigeria, named after Solon of Athens. An election simulator, AI voter segmentation, agent coordination, finance compliance, and a live war room — 
