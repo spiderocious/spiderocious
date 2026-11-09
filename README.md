@@ -3,7 +3,7 @@
 I enjoy building things that solve real problems, whether it's a product feature that improves user experience or an open-source library that makes other developers' lives easier. I believe in writing clean, maintainable code and sharing knowledge through writing and open source contributions.
 
 ## Get in Touch
-- Blog: [blog.devferanmi.xyz](https://crackedchefs.devferanmi.xyz/)
+- Blog: [blog.devferanmi.xyz](https://blog.devferanmi.xyz/)
 - Email: devferanmi@gmail.com
 - Portfolio: [https://devferanmi.xyz/](https://devferanmi.xyz/)
 - LLM: [https://devferanmi.xyz/llm](https://devferanmi.xyz/llm)
